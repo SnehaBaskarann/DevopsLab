@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9fFAQEl5XPUUuvx3qursUleBhL7IGYUfj9jhGXkZ85Ed62mquYDbujWKSvtzcWS7q6nExNMW3u/C6APKMKav1w==",
+  "dgSpecHash": "Uf07tKxaE6nsa58zue8kt7R0Aq8/uGr0EKV0PupeGtX71jPJWdcCro6mqGUMKqNmg8xo6duNiXvJGmWYDdo+9Q==",
   "success": true,
   "projectFilePath": "D:\\Devops\\QuizManagementSystem\\QuizManagementSystem\\QuizManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sneha.baskaran\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\sneha.baskaran\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sneha.baskaran\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\sneha.baskaran\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\sneha.baskaran\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\sneha.baskaran\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
